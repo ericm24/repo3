@@ -16,7 +16,7 @@ local.properties
 .settings/
 .loadpath
 
-# UltraEdit
+# UltraEdit    
 *.bak
 
 # External tool builders
