@@ -14,7 +14,11 @@
     },
     "age": {
       "type": "number"
+    },
+    "ztype": {
+      "type": "string"
     }
+
   },
   "validations": [],
   "relations": {},
