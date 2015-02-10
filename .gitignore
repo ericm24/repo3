@@ -16,8 +16,16 @@ local.properties
 .settings/
 .loadpath
 
-# UltraEdit    
+##############
+## UltraEdit    
+##############
 *.bak
+
+##############
+## Cloud9
+##############
+.c9
+.c9/*.*
 
 # External tool builders
 .externalToolBuilders/
