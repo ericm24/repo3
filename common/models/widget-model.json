@@ -15,6 +15,9 @@
     "age": {
       "type": "number"
     },
+    "xtype": {
+      "type": "string"
+    },
     "ytype": {
       "type": "string"
     },
